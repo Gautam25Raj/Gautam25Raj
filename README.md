@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **DSA, Advance React**
 - 👨‍💻 All of my projects are available at [Portfolio](https://gautam-raj.netlify.app/)
 - 📫 How to reach me **ashragautam25@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/188EquVDw16LpBNxFYiBmW2Cq_iLJz6jp/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15lk9dlif1U_2frHx_-zIqkVZPdoA58ct/view?usp=sharing)
 
 <br/>
 
