@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Resume Genie](https://github.com/Gautam25Raj/resume-genie)
 - 🌱 I’m currently learning **DSA, Advance React**
-- 👨‍💻 All of my projects are available at [Portfolio](https://gautam-raj.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gautam-raj.vercel.app/)
 - 📫 How to reach me **ashragautam25@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15lk9dlif1U_2frHx_-zIqkVZPdoA58ct/view?usp=sharing)
 
