@@ -3,7 +3,7 @@
 <h3 align="left">An India-based tech-savvy computer science student on the verge of graduating, with a passion for technology that borders on obsession.</h3>
 
 - 🔭 I’m currently working on [Resume Genie](https://github.com/Gautam25Raj/resume-genie) & [Movix](https://github.com/Gautam25Raj/movix)
-- 🌱 I’m currently learning **DSA, Advance React**
+- 🌱 I’m currently learning **Next**
 - 👨‍💻 All of my projects are available at [Portfolio](https://gautam-raj.vercel.app/)
 - 📫 How to reach me **ashragautam25@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15lk9dlif1U_2frHx_-zIqkVZPdoA58ct/view?usp=sharing)
