@@ -1,6 +1,6 @@
 
 <h1 align="left">Hola 👋! My name is Gautam</h1>
-<h3 align="left">An India-based tech-savvy computer science student on the verge of graduating, with a passion for technology that borders on obsession.</h3>
+<h3 align="left">An India-based tech-savvy computer science graduated, with a passion for technology that borders on obsession.</h3>
 
 - 🔭 I’m currently working on [Resume Genie](https://github.com/Gautam25Raj/resume-genie) & [Movix](https://github.com/Gautam25Raj/movix)
 - 🌱 I’m currently learning **Next and React**
