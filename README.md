@@ -1,5 +1,6 @@
-
-<h1 align="left">Hola 👋! My name is Gautam</h1>
+<h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF6E96&width=610&height=80&lines=Hola+%F0%9F%91%8B!+My+name+is+Gautam" alt="Typing SVG" /></a>
+</h1>
 <h3 align="left">An India-based tech-savvy computer science graduated, with a passion for technology that borders on obsession.</h3>
 
 - 🔭 I’m currently working on [Resume Genie](https://github.com/Gautam25Raj/resume-genie) & [Movix](https://github.com/Gautam25Raj/movix)
