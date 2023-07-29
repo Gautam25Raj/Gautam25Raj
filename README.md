@@ -3,7 +3,7 @@
 </h1>
 <h3 align="left">An India-based tech-savvy computer science graduated, with a passion for technology that borders on obsession.</h3>
 
-- 🔭 I’m currently working on [Resume Genie](https://github.com/Gautam25Raj/resume-genie)
+- 🔭 I’m currently working on [Resume Genie](https://github.com/Gautam25Raj/resume-genie) & [Blocket](https://github.com/Gautam25Raj/blocket)
 - 🌱 I’m currently learning **Next and React**
 - 👨‍💻 All of my projects are available at [Portfolio](https://gautam-raj.vercel.app/)
 - 📫 How to reach me **ashragautam25@gmail.com**
