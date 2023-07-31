@@ -4,10 +4,10 @@
 <h3 align="left">An India-based tech-savvy computer science graduated, with a passion for technology that borders on obsession.</h3>
 
 - 🔭 I’m currently working on [Resume Genie](https://github.com/Gautam25Raj/resume-genie) & [Blocket](https://github.com/Gautam25Raj/blocket)
-- 🌱 I’m currently learning **Next and React**
-- 👨‍💻 All of my projects are available at [Portfolio](https://gautam-raj.vercel.app/)
+- 🌱 I’m currently learning **Next and Solana**
+- 👨‍💻 All of my projects are available at [Portfolio](https://gautam-raj.vercel.app)
 - 📫 How to reach me **ashragautam25@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15lk9dlif1U_2frHx_-zIqkVZPdoA58ct/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U6FAh-qi1402jqqgte0m-TOziFRSB7wD/view?usp=sharing)
 
 <br/>
 
