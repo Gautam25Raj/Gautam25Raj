@@ -3,7 +3,7 @@
 </h1>
 <h3 align="left">An India-based tech-savvy computer science graduated, with a passion for technology that borders on obsession.</h3>
 
-- 🔭 I’m currently working on [Eminence Wallet](https://github.com/Gautam25Raj/eminence-wallet) & [Bankless Wallet](https://github.com/Muziris-Labs/bWallet_main)
+- 🔭 I’m currently working on [Eminence Wallet](https://github.com/Gautam25Raj/eminence-wallet) & [Wallet](https://github.com/Muziris-Labs/bWallet_main)
 - 🌱 I’m currently learning **Blockchain & Web3**
 - 👨‍💻 All of my projects are available at [Portfolio](https://gautam-raj.vercel.app)
 - 📫 How to reach me **ashragautam25@gmail.com**
