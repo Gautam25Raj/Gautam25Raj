@@ -25,8 +25,8 @@
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam25Raj&theme=dracula&hide_border=false" height="210" alt="profile stats"  />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gautam25Raj&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" height="180" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautam25Raj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=Gautam25Raj&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" height="180" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautam25Raj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  /> -->
   </div>
 </details>
 
