@@ -32,13 +32,14 @@
 
 <br>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 <details open> 
   <summary><h2>🛠️ Languages and Tools:</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
+    <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=fff" alt="Solidity logo badge">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java logo badge">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo badge">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000" alt="JavaScript logo badge">
